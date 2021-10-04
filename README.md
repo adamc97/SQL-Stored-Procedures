@@ -3,3 +3,4 @@ Scripts used to showcase how stored procedures can enhance a Power BI dashboard 
 
 These stored procedures have been used in conjunction with a Power BI dashboard to produce customisable visualisations.
 Find the video here: 
+https://www.youtube.com/watch?v=5mXGP9P3GPw
